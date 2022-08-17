@@ -15,6 +15,9 @@ body {
 .topspace {
   margin-top: 40px;
 }
+#head{
+	top: 50px;
+}
 #sub{
   color: #096cff;
   font-size: 30px;
