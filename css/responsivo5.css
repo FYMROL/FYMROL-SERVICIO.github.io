@@ -133,4 +133,15 @@ nav{
   position: relative;
   text-align: center;
 }
+#texto{
+  display: none;
+}
+#virtual{
+  position: relative;
+  top: -390px;
+}
+#imgv{
+  position: relative;
+  top: 290px;
+}
 }
